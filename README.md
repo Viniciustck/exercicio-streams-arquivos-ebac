@@ -11,11 +11,3 @@ O desafio consiste em:
 4. Converter os dados lidos em Objetos Java.
 5. Exibir os dados processados no console em formato **XML**.
 
-##  Como Executar
-
-Certifique-se de que o arquivo de dados (`funcionarios.csv`) esteja na **raiz do projeto** (fora da pasta `src` ou no mesmo nível onde o comando de execução será rodado).
-
-1. Clone o repositório ou baixe os arquivos.
-2. Compile os arquivos Java:
-   ```bash
-   javac LeituraArquivo.java Funcionario.java
